@@ -1,0 +1,5 @@
+# github.com/go-chi/chi v3.3.3+incompatible
+github.com/go-chi/chi
+github.com/go-chi/chi/middleware
+# github.com/zserge/webview v0.0.0-20180509070823-016c6ffd99f3
+github.com/zserge/webview
